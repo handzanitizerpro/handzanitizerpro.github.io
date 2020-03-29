@@ -1,0 +1,46 @@
+h1 {
+    color: grey;
+    font-family: Calibri;
+}
+
+.title {
+    color: #FF00FF;
+}
+
+
+
+
+.publish-time {
+    color: gray;
+}
+
+#aloe-vera {
+    width: 30%;
+}
+
+h2 {
+    font-family: Calibri;
+}
+
+p {
+    font-family: Arial;
+}
+
+#centerpiece {
+    color: black;
+    font-family: verdana;
+}
+
+#maintitle {
+    background-color: #FF00FF;
+    height: 50px;
+    width: 100%;
+}
+
+#pricephoto {
+    width: 350px;
+}
+
+#article-title {
+    color: black;
+}
