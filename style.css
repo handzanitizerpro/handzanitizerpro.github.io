@@ -47,16 +47,20 @@ p {
 
 .buttonStyle1:hover { 
 background: #FF00FF; 
+color: #FFFFFF;
 }
 
 .buttonStyle2:hover{
 background: #FF00FF;
+color: #FFFFFF
 }
 
 .buttonStyle3:hover{
 background: #FF00FF;
+color:#FFFFFF;
 }
 
 .buttonStyle4:hover{
 background: #FF00FF;
+color:#FFFFF;
 }
