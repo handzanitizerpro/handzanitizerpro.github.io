@@ -45,6 +45,18 @@ p {
     color: black;
 }
 
-.buttonStyle:hover { 
+.buttonStyle1:hover { 
 background: #FF00FF; 
+}
+
+.buttonStyle2:hover{
+background: #FF00FF;
+}
+
+.buttonStyle3:hover{
+background: #FF00FF;
+}
+
+.buttonStyle4:hover{
+background: #FF00FF;
 }
