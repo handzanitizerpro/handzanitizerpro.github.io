@@ -45,4 +45,6 @@ p {
     color: black;
 }
 
-.buttonStyle:hover { background: #FF00FF; }
+.buttonStyle:hover { 
+background: #FF00FF; 
+}
