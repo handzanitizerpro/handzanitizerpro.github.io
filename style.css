@@ -99,3 +99,11 @@ button.learnmore{
 	color: #fff;
 	letter-spacing: 1px;
 }
+
+.like:hover{
+color:#008000
+}
+
+.dislike:hover{
+color:#FF0000
+}
